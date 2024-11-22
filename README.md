@@ -29,7 +29,13 @@ Le projet est structuré autour des thématiques suivantes :
 
 Voici une représentation graphique des analyses :
 <div align="center">
-  <img src="assets/graph.png" alt="Graphique illustratif">
+  <img src="assets/capture1.PNG" width = 700 alt="Graphique illustratif">
+</div>
+<div align="center">
+  <img src="assets/capture2.PNG" width = 600 alt="Graphique illustratif">
+</div>
+<div align="center">
+  <img src="assets/capture3.PNG" width = 700 alt="Graphique illustratif">
 </div>
 
 ## 🛠️ Outils et méthodes
